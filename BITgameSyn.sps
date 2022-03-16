@@ -59,7 +59,7 @@ CORRELATIONS
   /STATISTICS DESCRIPTIVES
   /MISSING=PAIRWISE.
 
-* Please modify the path according to the location of "process.sps"(which you get on downloading PROCESS) on your own computer, or it might not work.
+* Please replace the following path (in the quotation mark) with the location of "process.sps"(which you get on downloading PROCESS) on your own computer, or it might not work.
 INSERT file="/Users/apple/Desktop/Gaming_paper_HJ/process.sps".
 process y=unethical_decision_making
     /x=game_intensity
